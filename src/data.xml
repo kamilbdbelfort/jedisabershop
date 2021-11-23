@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<jedisabershop>
+    <sabers>
+        <saber>
+            <id>4456</id>
+            <name>Sith Saber</name>
+            <available>27</available>
+            <crystalName>Kadril saber</crystalName>
+            <color>blue</color>
+        </saber>
+        <saber>
+            <id>7766</id>
+            <name>Master Jedi Saber</name>
+            <available>13</available>
+            <crystalName>Obi Wan saber</crystalName>
+            <color>green</color>
+        </saber>
+    </sabers>
+    <crystals>
+        <crystalType>
+            <color>RED</color>
+            <name>Ilum crystal</name>
+            <powerUsage>20%F</powerUsage>
+            <cr>101Cr</cr>
+        </crystalType>
+        <crystalType>
+            <color>BLUE</color>
+            <name>Dantooine crystal</name>
+            <powerUsage>19%F</powerUsage>
+            <cr>10Cr</cr>
+        </crystalType>
+        <crystalType>
+            <color>GREEN</color>
+            <name>Dagobah crystal</name>
+            <powerUsage>22%F</powerUsage>
+            <cr>37Cr</cr>
+        </crystalType>
+    </crystals>
+</jedisabershop>
